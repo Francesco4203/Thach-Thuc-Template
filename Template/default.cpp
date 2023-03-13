@@ -11,7 +11,7 @@ using namespace std;
 
 // Global variables pls
 
-singed main()
+signed main()
 {
     cin.tie(0)->sync_with_stdio(0);
     int test = 1;
